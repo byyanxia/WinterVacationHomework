@@ -1,5 +1,4 @@
 #该脚本在原作者基础上数据做了微调，https://blog.csdn.net/weixin_43746433/article/details/89856014
-
 import jieba.analyse
 import imageio
 import jieba.posseg as pseg
