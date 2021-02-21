@@ -14,7 +14,7 @@ def tiqu():
  | ,','o| / \/7 /  / /7,'o|
 /_/  |_,7/_n_/,'_n_\// |_,7
                   QQ:210246020         
-                          """)          
+                          """)        
  for page in range(0,220,20):
   try:
    url='https://movie.douban.com/subject/27619748/comments?start=%d&limit=20&status=P&sort=new_score'%page
